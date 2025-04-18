@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "question": "Что такое JSX?",
+      "options": ["HTML-файл", "Фреймворк", "Синтаксис JavaScript с XML", "Функция"],
+      "correctIndex": 2
+    },
+    {
+      "id": 2,
+      "question": "Что делает useState в React?",
+      "options": ["Меняет DOM", "Создает маршрут", "Добавляет состояние", "Обрабатывает события"],
+      "correctIndex": 2
+    },
+    {
+      "id": 3,
+      "question": "Какой хук используется для выполнения эффекта после рендера?",
+      "options": ["useEffect", "useRender", "useMemo", "useCallback"],
+      "correctIndex": 0
+    }
+  ]
+  
